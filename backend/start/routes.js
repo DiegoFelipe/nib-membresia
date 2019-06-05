@@ -2,4 +2,4 @@
 
 const Route = use('Route')
 
-Route.resource('/ministerio', 'MinisterioController').apiOnly()
+Route.resource('/ministerios', 'MinisterioController').apiOnly()

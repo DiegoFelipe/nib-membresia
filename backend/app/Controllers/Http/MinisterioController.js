@@ -1,6 +1,6 @@
 'use strict'
 
-const Post = use('App/Models/Ministerio ')
+const Ministerio = use('App/Models/Ministerio')
 
 /**
  * Resourceful controller for interacting with ministerios
